@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:padding="4dp">
+  <TextView android:id="@+id/ConstantName" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+  <TextView android:id="@+id/ConstantValue" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  android:layout_toRightOf="@+id/ConstantName" android:textColor="#FFff4040" android:textColorHighlight="#FF681111"/>
+</RelativeLayout>
