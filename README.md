@@ -26,6 +26,6 @@ now, startup your avd using this command:
 
 
 __Run OS.Build Reader__
-	cd $IconReader2_HOME
+	cd $OSBuildReader_HOME
 	ant install
 now you can find it on your emulator
